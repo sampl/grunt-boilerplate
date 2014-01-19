@@ -13,7 +13,9 @@ Grunt will...
 
 #### Usage
 
-`$ git clone https://github.com/sampl/grunt-boilerplate.git`
-`$ cd grunt-boilerplate`
-`$ npm install`
-`$ grunt`
+```
+$ git clone https://github.com/sampl/grunt-boilerplate.git
+$ cd grunt-boilerplate
+$ npm install
+$ grunt
+```
