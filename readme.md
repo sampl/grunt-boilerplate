@@ -19,3 +19,5 @@ $ cd grunt-boilerplate
 $ npm install
 $ grunt
 ```
+
+If `npm install` fails, try `sudo npm install`
