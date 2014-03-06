@@ -1,5 +1,11 @@
-include ../partials/_header
+extends ../layouts/main
 
-p it works!
+block title
+	title Grunt Boilerplate - Index
 
-img(src="images/sun.png")
+block content
+	include ../includes/hello
+
+	p It works!
+
+	img(src="images/sun.png")
